@@ -150,5 +150,10 @@ figcaption {
 }
 
 .document {
-  font-size: 1.5em;
+  font-size: 1.3em;
+}
+
+.system-features {
+  text-align: justify;
+  font-size: 1.3em;
 }
