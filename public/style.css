@@ -85,8 +85,19 @@ a:hover{
   padding-bottom: 0;
 }
 
+.card-body-advisor {
+  margin-top: 0;
+}
+
 .card-img-top {
   margin: 0;
+}
+
+.card-img-side {
+  width: 100%;
+  margin-left:2em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 table {
